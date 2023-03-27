@@ -32,12 +32,10 @@ hoverChangeExperience(
 
 hoverChangeExperience(
   ".codigofontetv",
-  `Trabalhei como Social Media e Designer no Código Fonte TV, 
-  onde teve como foco as criações de conteúdos sobre programação 
-  para a comunidade dev através das redes sociais.`,
-  "Social Media e Designer",
-  "Código Fonte TV",
-  "Jun 2021 - Jan 2022 (8 meses)"
+  `Menjadi pemateri untuk Indonesai Android Kejar (Batch 3) untuk level beginner di SMK PGRI 3 Malang.`,
+  "Indonesia Android Kejar",
+  "Fasilitator",
+  "September 2017"
 );
 
 hoverChangeExperience(
